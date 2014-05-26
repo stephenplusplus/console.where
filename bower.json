@@ -1,0 +1,26 @@
+{
+  "name": "console.where",
+  "version": "0.0.1",
+  "homepage": "https://github.com/webBoxio/console.where",
+  "authors": [
+    "f <fka@fatihak.in>"
+  ],
+  "description": "console.log upgrade based on Remy Sharp's post.",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "console",
+    "log",
+    "upgrade"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

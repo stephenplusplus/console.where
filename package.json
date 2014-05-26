@@ -1,0 +1,24 @@
+{
+  "name": "console.where",
+  "version": "0.0.1",
+  "description": "console.log upgrade based on Remy Sharp's post.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webBoxio/console.where.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "upgrade"
+  ],
+  "author": "Fatih Kadir Akin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webBoxio/console.where/issues"
+  },
+  "homepage": "https://github.com/webBoxio/console.where"
+}
